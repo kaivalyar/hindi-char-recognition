@@ -1,0 +1,3 @@
+dot_modelk.model - .997 .958
+matra_modelk.model - .95 .92
+base_modelk.model - 0.94 0.87
